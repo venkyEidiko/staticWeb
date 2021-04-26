@@ -1,0 +1,24 @@
+.leftDiv {
+    margin-left: 25%;
+    width: 50%;
+    height: auto; 
+    background: rgb(241, 243, 216);
+    padding: 30px;
+  }
+  .totalBody{
+background-color: rgb(188, 238, 238);
+  }
+  #asub
+{
+	background: #41bbe0;
+	color: black;
+	font-size: 30px;
+	border: none;
+	cursor: pointer;
+	border-radius: 20px;
+	font-style: inherit;
+	outline: none;
+	height: 40px;
+	width: 260px;
+	
+}
